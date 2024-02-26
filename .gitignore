@@ -1,2 +1,4 @@
 *.lck
-blue_clipper_mod-backups/**
+*-backups/**
+gerber/**
+gerber.zip
